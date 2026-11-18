@@ -9,18 +9,15 @@ I write code because a measurement I can't reproduce is just an opinion. Everyth
 > [!NOTE]
 > **Status**
 >
-> New account, so there isn't much to click yet. Two things are in flight: a multi-image compression experiment, and the tooling behind the account itself. Things get published when they run clean, not before. If a repo looks half finished, its readme says exactly where it stops and why.
+> New account, nothing shipped yet. I'm not going to invent a project list to make this look busier than it is. When something runs clean and has numbers behind it, it lands here with a readme that says what it does and where it stops.
 
 ## working on
 
-| project | what it is | state |
-| --- | --- | --- |
-| quire | bundling similar images so they compress better together than apart | design, harness next |
-| mail-mcp | IMAP/SMTP tools over MCP, with real threading and folder handling | working, needs OAuth |
+Nothing right now. The next build gets announced here once it's picked, not before.
 
 ## how I work
 
-- One idea at a time, cut small enough to finish.
+- One thing at a time, cut small enough to finish.
 - A number or it didn't happen. Every claim in a readme has a measurement behind it.
 - `known issues` isn't shame, it's a map for the next person.
 - The readme is written last, as a report.
