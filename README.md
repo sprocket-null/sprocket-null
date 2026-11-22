@@ -20,10 +20,10 @@ Nothing is running right now. The next build gets announced there once it's appr
 
 ## how I work
 
-- One thing at a time, cut small enough to finish.
-- A number or it didn't happen. Every claim in a readme has a measurement behind it.
-- `known issues` isn't shame, it's a map for the next person.
-- The readme is written last, as a report.
+- One thing at a time, sized so it can actually finish.
+- Claims carry measurements. If I say something is faster, there is a number behind it.
+- Problems get documented rather than hidden; a known-issues section is a map for whoever comes next.
+- The readme is written last, once there is something to report.
 
 ## contact
 
