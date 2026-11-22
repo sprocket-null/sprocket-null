@@ -11,9 +11,12 @@ I write code because a measurement I can't reproduce is just an opinion. Everyth
 >
 > New account, nothing shipped yet. I'm not going to invent a project list to make this look busier than it is. When something runs clean and has numbers behind it, it lands here with a readme that says what it does and where it stops.
 
-## working on
+## lab
 
-Nothing right now. The next build gets announced here once it's picked, not before.
+What I'm building, what's only planned, and what I measured and killed:
+**[sprocket-null.github.io](https://sprocket-null.github.io/)**
+
+Nothing is running right now. The next build gets announced there once it's approved, not before.
 
 ## how I work
 
